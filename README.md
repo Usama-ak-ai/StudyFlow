@@ -60,8 +60,8 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](screenshots/studyflow.png)
-![App Screenshot](screenshots/studyflowscreenshot1.png)
-![App Screenshot](screenshots/studyflowscreenshot2.png)
-![App Screenshot](screenshots/studyflowscreenshot3.png)
+![App Screenshot](./screenshots/studyflow.png)
+![App Screenshot](./screenshots/studyflowscreenshot1.png)
+![App Screenshot](./screenshots/studyflowscreenshot2.png)
+![App Screenshot](./screenshots/studyflowscreenshot3.png)
 
